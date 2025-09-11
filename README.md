@@ -29,6 +29,6 @@ El análisis se basa en el dataset `BMW sales data (2010-2024).csv`, que contien
 * **Insight 3 (Preferencia de Gama):** "Los vehículos de color **'Black'** y **'White'** son los más vendidos en todas las series. Sin embargo, colores más exclusivos como **'Blue'** o **'Grey'** se asocian con un precio de venta promedio un 15% más alto, especialmente en las series M."
 
 ## 5. Visualización Interactiva
-El dashboard completo está disponible de forma pública e interactiva en el siguiente enlace:
+El dashboard completo está disponible en forma de archivo para interactuar con el:
 
 <img width="1336" height="726" alt="BMW DASHBOARD" src="https://github.com/user-attachments/assets/10de0e97-4a0b-4c2f-9b2d-dc3f8b180cf6" />
