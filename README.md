@@ -24,13 +24,13 @@ El análisis se basa en el dataset `BMW sales data (2010-2024).csv`, que contien
 
 ## 4. Hallazgos Clave (Insights)
 
-* **Insight 1 (Producto Estratégico):** "El análisis revela que, aunque la **Serie 3** domina en volumen de ventas, los modelos **SUV de la Serie X (X3, X5)** han tenido el mayor crecimiento porcentual en ventas desde 2018, posicionándose como el motor de crecimiento clave para la compañía."
+**Insight 1 (Producto Estratégico):** "El análisis revela que, aunque la **Serie 3** domina en volumen de ventas, los modelos **SUV de la Serie X (X3, X5)** han tenido el mayor crecimiento porcentual en ventas desde 2018, posicionándose como el motor de crecimiento clave para la compañía."
 * **Insight 2 (Transición Energética):** "Se observa un punto de inflexión en el año **2020**, donde las ventas de vehículos con motor **'Electric'** comienzan a crecer exponencialmente, mientras que la demanda de motores 'Diesel' muestra una clara tendencia a la baja."
 * **Insight 3 (Preferencia de Gama):** "Los vehículos de color **'Black'** y **'White'** son los más vendidos en todas las series. Sin embargo, colores más exclusivos como **'Blue'** o **'Grey'** se asocian con un precio de venta promedio un 15% más alto, especialmente en las series M."
 
 ## 5. Visualización Interactiva
 El dashboard completo está disponible de forma pública e interactiva en el siguiente enlace:
 
-**[Pega aquí tu enlace de Power BI Public]**
+** **
 
-![image](https://aqui-puedes-poner-un-enlace-a-una-captura-de-pantalla-de-tu-dashboard.png)
+<img width="1336" height="726" alt="BMW DASHBOARD" src="https://github.com/user-attachments/assets/10de0e97-4a0b-4c2f-9b2d-dc3f8b180cf6" />
