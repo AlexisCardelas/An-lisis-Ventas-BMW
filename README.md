@@ -31,6 +31,4 @@ El análisis se basa en el dataset `BMW sales data (2010-2024).csv`, que contien
 ## 5. Visualización Interactiva
 El dashboard completo está disponible de forma pública e interactiva en el siguiente enlace:
 
-** **
-
 <img width="1336" height="726" alt="BMW DASHBOARD" src="https://github.com/user-attachments/assets/10de0e97-4a0b-4c2f-9b2d-dc3f8b180cf6" />
